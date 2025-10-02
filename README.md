@@ -1,7 +1,12 @@
+## Informações do Projeto
 
-tecnologias: utilizamos o vs code para fazer a programação com typescript e vite, frameworks com hooks, routes e tailwind.
-integrantes: Vitória Rodrigues RM 565160 | Nickolas Davi RM 564105 | Felipe Ishii RM 565339
+**Tecnologias:**
+Utilizamos o VS Code para a programação, com TypeScript e Vite. Para os frameworks, empregamos Hooks, Routes e Tailwind CSS.
 
+**Integrantes:**
+*   Vitória Rodrigues RM 565160
+*   Nickolas Davi RM 564105
+*   Felipe Ishii RM 565339
 
-
-https://github.com/Vitoria146/Challenge_SP3-SP4
+**Repositório GitHub:**
+[https://github.com/Vitoria146/Challenge_SP3-SP4](https://github.com/Vitoria146/Challenge_SP3-SP4)
